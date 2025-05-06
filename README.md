@@ -1,119 +1,82 @@
-# 👋 Hello World! I'm Mustapher Abdalla
+# 👋 Hello World! I'm [Your Name]
 
 **`ALX Certified Back-End Engineer | API Specialist | Future Safaricom/Airtel/Oracle Developer`**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mustapherabdalla/mustapherabdalla/main/images/backend-banner.gif" alt="Backend Development Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/images/backend-banner.gif" alt="Backend Development Banner" width="100%"/>
 </div>
 
 ## 🚀 Current Focus
-```html
-<div>
-  <p>🔥 Building <strong>Airbnb Clone</strong> at ALX with:</p>
-  <ul>
-    <li>Python + Django RESTful API</li>
-    <li>MySQL database architecture</li>
-    <li>JWT authentication system</li>
-    <li>Containerization with Docker</li>
-  </ul>
-  <p>👉 <a href="https://github.com/mustapherabdalla/airbnb-clone" target="_blank">View Project Progress</a></p>
-</div>
--->
-<div>
-  <p>Working towards back-end engineering roles at:</p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Safaricom-FF0000?style=for-the-badge&logo=safaricom&logoColor=white" alt="Safaricom">
-    <img src="https://img.shields.io/badge/Airtel-FF0000?style=for-the-badge&logo=airtel&logoColor=white" alt="Airtel">
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" alt="Oracle">
-  </p>
-</div>
-<div>
-  <table>
-    <tr>
-      <th>Month</th>
-      <th>Focus</th>
-      <th>Key Achievements</th>
-    </tr>
-    <tr>
-      <td>1️⃣</td>
-      <td>Backend Core</td>
-      <td>
-        <ul>
-          <li>Mastered RESTful design</li>
-          <li>Implemented JWT auth</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>2️⃣</td>
-      <td>Auth & Testing</td>
-      <td>
-        <ul>
-          <li>Added transaction limits</li>
-          <li>Implemented user roles</li>
-          <li>100% test coverage</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>3️⃣</td>
-      <td>DevOps</td>
-      <td>
-        <ul>
-          <li>Dockerized applications</li>
-          <li>CI/CD with GitHub Actions</li>
-          <li>Heroku deployments</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>4️⃣</td>
-      <td>Cloud & Scaling</td>
-      <td>
-        <ul>
-          <li>Redis caching</li>
-          <li>Rate limiting</li>
-          <li>Message queues</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
-<div>
-  <p>🎓 <strong>Professional Foundations Certificate</strong> - ALX Africa</p>
-  <p>🏅 Key Skills Validated:</p>
-  <ul>
-    <li>Backend system architecture</li>
-    <li>API security best practices</li>
-    <li>Database optimization</li>
-    <li>Peer code review excellence</li>
-  </ul>
-</div>
-<div>
+🔥 Building **Airbnb Clone** at ALX with:
+- Python + Flask RESTful API
+- MySQL database architecture
+- JWT authentication system
+- Containerization with Docker
+
+👉 [View Project Progress](https://github.com/yourusername/airbnb-clone)
+
+## 🎯 Career Targets
+Working towards back-end engineering roles at:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Safaricom-FF0000?style=for-the-badge&logo=safaricom&logoColor=white" alt="Safaricom">
+  <img src="https://img.shields.io/badge/Airtel-FF0000?style=for-the-badge&logo=airtel&logoColor=white" alt="Airtel">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" alt="Oracle">
+</p>
+
+## 🛠️ Technical Journey
+
+### 🔥 Fast-Paced Backend Engineering Track
+
+| Month | Focus | Key Achievements |
+|-------|-------|------------------|
+| 1️⃣ | Backend Core | • Built Safaricom Lite API v1<br>• Mastered RESTful design<br>• Implemented JWT auth |
+| 2️⃣ | Auth & Testing | • Added transaction limits<br>• Implemented user roles<br>• 100% test coverage |
+| 3️⃣ | DevOps | • Dockerized applications<br>• CI/CD with GitHub Actions<br>• Heroku deployments |
+| 4️⃣ | Cloud & Scaling | • Redis caching<br>• Rate limiting<br>• Message queues |
+
+## 🏆 ALX Achievements
+🎓 **Professional Foundations Certificate** - ALX Africa
+
+🏅 Key Skills Validated:
+- Backend system architecture
+- API security best practices
+- Database optimization
+- Peer code review excellence
+
+## 🌱 Current Learning
 📚 Deep diving into:
+- Advanced FastAPI patterns
+- PostgreSQL performance tuning
+- AWS Certified Developer concepts
+- Microservices architecture
 
-    Advanced FastAPI patterns
-    PostgreSQL performance tuning
-    AWS Certified Developer concepts
-    Microservices architecture
+🔜 Next Milestone: *Building a scalable payment system similar to M-Pesa API*
 
-🔜 Next Milestone: Building a scalable payment system similar to M-Pesa API
-
-  <p>🔜 Next Milestone: <em>Building a scalable payment system similar to M-Pesa API</em></p>
-</div>
+## 📈 GitHub Highlights
 <div align="center">
-  <a href="https://github.com/mustapherabdalla/airbnb-clone">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=[yourusername]&repo=airbnb-clone&theme=radical" />
+  <a href="https://github.com/yourusername/airbnb-clone">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=airbnb-clone&theme=radical" />
+  </a>
+  <a href="https://github.com/yourusername/safaricom-lite-api">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=safaricom-lite-api&theme=radical" />
   </a>
 </div>
-<div align="center">
-  <p>Open to backend engineering opportunities and collaborations</p>
-  <a href="https://linkedin.com/in/mustapher-abdalla-a2029920a">
+
+## 🤝 Let's Connect
+<p align="center">
+  Open to backend engineering opportunities and collaborations<br><br>
+  <a href="https://linkedin.com/in/yourprofile">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mustapherabdalla@gmail.com">
+  <a href="mailto:youremail@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://sites.google.com/view/mustapher-abdalla/">
+  <a href="https://sites.google.com/view/your-website">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Personal Portfolio">
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=PROFILE+VIEWS&color=blue&style=flat" alt="Profile views"> 
 </div>
