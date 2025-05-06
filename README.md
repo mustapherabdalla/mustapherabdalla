@@ -13,7 +13,7 @@
 - JWT authentication system
 - Containerization with Docker
 
-👉 [View Project Progress](https://github.com/mustapherabdalla/airbnb-clone)
+👉 [View Project Progress](https://github.com/mustapherabdalla/airbnb-clone-project)
 
 ## 🎯 Career Targets
 Working towards back-end engineering roles at:
@@ -54,8 +54,8 @@ Working towards back-end engineering roles at:
 
 ## 📈 GitHub Highlights
 <div align="center">
-  <a href="https://github.com/mustapherabdalla/airbnb-clone">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustapherabdalla&repo=airbnb-clone&theme=radical" />
+  <a href="https://github.com/mustapherabdalla/airbnb-clone-project">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustapherabdalla&repo=airbnb-clone-project&theme=radical" />
   </a>
 </div>
 
