@@ -1,9 +1,9 @@
-# 👋 Hello World! I'm [Your Name]
+# 👋 Hello, I'm Mustapher Abdalla
 
 **`ALX Certified Back-End Engineer | API Specialist | Future Safaricom/Airtel/Oracle Developer`**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/images/backend-banner.gif" alt="Backend Development Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/mustapherabdalla/mustapherabdalla/main/images/backend-banner.gif" alt="Backend Development Banner" width="100%"/>
 </div>
 
 ## 🚀 Current Focus
@@ -13,7 +13,7 @@
 - JWT authentication system
 - Containerization with Docker
 
-👉 [View Project Progress](https://github.com/yourusername/airbnb-clone)
+👉 [View Project Progress](https://github.com/mustapherabdalla/airbnb-clone)
 
 ## 🎯 Career Targets
 Working towards back-end engineering roles at:
@@ -48,35 +48,31 @@ Working towards back-end engineering roles at:
 📚 Deep diving into:
 - Advanced FastAPI patterns
 - PostgreSQL performance tuning
-- AWS Certified Developer concepts
 - Microservices architecture
 
 🔜 Next Milestone: *Building a scalable payment system similar to M-Pesa API*
 
 ## 📈 GitHub Highlights
 <div align="center">
-  <a href="https://github.com/yourusername/airbnb-clone">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=airbnb-clone&theme=radical" />
-  </a>
-  <a href="https://github.com/yourusername/safaricom-lite-api">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=safaricom-lite-api&theme=radical" />
+  <a href="https://github.com/mustapherabdalla/airbnb-clone">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustapherabdalla&repo=airbnb-clone&theme=radical" />
   </a>
 </div>
 
 ## 🤝 Let's Connect
 <p align="center">
   Open to backend engineering opportunities and collaborations<br><br>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://linkedin.com/in/mustapher-abdalla-a2029920a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mustapherabdalla@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://sites.google.com/view/your-website">
+  <a href="https://sites.google.com/view/mustapher-abdalla/">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Personal Portfolio">
   </a>
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=PROFILE+VIEWS&color=blue&style=flat" alt="Profile views"> 
+  <img src="https://komarev.com/ghpvc/?username=mustapherabdalla&label=PROFILE+VIEWS&color=blue&style=flat" alt="Profile views"> 
 </div>
