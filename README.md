@@ -90,13 +90,15 @@
   </ul>
 </div>
 <div>
-  <p>📚 Deep diving into:</p>
-  <ul>
-    <li>Advanced FastAPI patterns</li>
-    <li>PostgreSQL performance tuning</li>
-    <li>AWS Certified Developer concepts</li>
-    <li>Microservices architecture</li>
-  </ul>
+📚 Deep diving into:
+
+    Advanced FastAPI patterns
+    PostgreSQL performance tuning
+    AWS Certified Developer concepts
+    Microservices architecture
+
+🔜 Next Milestone: Building a scalable payment system similar to M-Pesa API
+
   <p>🔜 Next Milestone: <em>Building a scalable payment system similar to M-Pesa API</em></p>
 </div>
 <div align="center">
